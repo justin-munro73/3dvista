@@ -1,0 +1,96 @@
+#: locale=fr
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_987DB058_8D4F_A9D0_41D5_DF0EBF1FCBAC.url = //www.youtube.com/embed/AIkOXGTx_SY?v=AIkOXGTx_SY
+
+## Hotspot
+
+### Info-bulle
+HotspotPanoramaOverlayArea_99EE4FFF_8818_9B5A_41D5_118B7CF129D3.toolTip = Activité à proximité
+HotspotPanoramaOverlayArea_933C7483_8287_559B_41DF_9FFB9CE14F31.toolTip = Redscendre cuisine
+HotspotPanoramaOverlayArea_98E4C428_8D56_E97A_41D4_99EE76813EBC.toolTip = Vidéo présentation du resort qu'on publiera sur YT
+HotspotPanoramaOverlayArea_93168AF0_829E_BD7B_41D1_4D25CB1DC040.toolTip = Vue des escaliers
+
+### Texte
+HotspotPanoramaOverlayTextImage_90FD1240_829E_AC99_41D3_24D63110A814.text = Ancienne commode \
+de collection
+HotspotPanoramaOverlayTextImage_9D7A0E5B_8838_9CB7_41D0_39808245CFB7.text = Espace TV
+HotspotPanoramaOverlayTextImage_9370CA42_8281_5C98_41B6_706DA7C69544.text = Kitchen \
+space
+HotspotPanoramaOverlayTextImage_984949D1_8D52_BACE_41D7_0C3B38139D56.text = Point cuisine
+HotspotPanoramaOverlayTextImage_B12E1A6E_A1B1_8325_41E1_694C33A0AD9C.text = regarder derrière par la fenêtre le timelaps et les hotspots 
+
+### URL
+FramePanoramaOverlay_95B0F361_8287_ECB7_41D3_9D95DDEBEB70.url = //www.youtube.com/embed/qzGxK6Uiu04?v=qzGxK6Uiu04
+
+## Média
+
+### Image
+imlevel_B1CB79C9_A1B0_816F_41DC_38A34C36593E.url = media/media_8181521B_8D35_A99E_41CE_1BBE84D511CB_HS_a8vcf0a8_fr.webp
+imlevel_B19D7978_A1B0_812C_41AC_8C27617F7C2B.url = media/media_8181521B_8D35_A99E_41CE_1BBE84D511CB_HS_oq1aj01p_fr.webp
+imlevel_91C2000C_82BE_EC9E_41DB_8534578AF279.url = media/panorama_8CD8D3F2_8281_5368_41D3_34053D9298DF_HS_542b54ib_fr.webp
+imlevel_966C00E9_82BE_ED87_41AC_8E5A35E8ED67.url = media/panorama_8CD8D3F2_8281_5368_41D3_34053D9298DF_HS_nldriwpc_fr.webp
+imlevel_9D787638_8837_8CFC_41CA_8B4E8F38FA2B.url = media/panorama_8FF909E1_8282_BF69_41DB_FB2DD2616DB2_HS_kydda3hk_fr.webp
+imlevel_98C6BEF7_8818_FD57_41D5_753DF8424231.url = media/popup_87B5FD8B_8808_BFB2_41C3_4E10A1E94AB3_fr_0_0.webp
+imlevel_98C6AEF7_8818_FD57_41CE_4EC3B0034A3E.url = media/popup_87B5FD8B_8808_BFB2_41C3_4E10A1E94AB3_fr_0_1.webp
+imlevel_98C68EF7_8818_FD57_41B6_60B637D0F290.url = media/popup_87B5FD8B_8808_BFB2_41C3_4E10A1E94AB3_fr_0_2.webp
+imlevel_98C6EEF7_8818_FD57_41E0_2F26894FE604.url = media/popup_87B5FD8B_8808_BFB2_41C3_4E10A1E94AB3_fr_0_3.webp
+imlevel_9E74A9B0_8808_87AC_4198_D1110F9D7C75.url = media/popup_9C25D886_880B_8473_41CF_C7328E92CA7A_fr_0_0.webp
+imlevel_9E7499B0_8808_87AC_41DD_4BBF104A2D37.url = media/popup_9C25D886_880B_8473_41CF_C7328E92CA7A_fr_0_1.webp
+imlevel_9E75B9B0_8808_87AC_41B4_3B884DA9C686.url = media/popup_9C25D886_880B_8473_41CF_C7328E92CA7A_fr_0_2.webp
+imlevel_9E7599B0_8808_87AC_41DE_2A5D32AB1CA1.url = media/popup_9C25D886_880B_8473_41CF_C7328E92CA7A_fr_0_3.webp
+imlevel_9E75E9B0_8808_87AC_41DF_785601E5093B.url = media/popup_9C25D886_880B_8473_41CF_C7328E92CA7A_fr_0_4.webp
+imlevel_9E75C9B0_8808_87AC_41CE_47C7B06F7A67.url = media/popup_9C25D886_880B_8473_41CF_C7328E92CA7A_fr_0_5.webp
+
+### Popup Image
+
+### Sous-titres vidéo
+
+### Titre
+album_9D9812D4_8D32_6EEC_41DE_A83C7C241CC1.label = Album Photo image (2)
+album_94BA6695_8287_B47E_41CE_24E4B369109D.label = Album Photo test_Capture d'écran(1)
+album_94D97C7E_8286_B4AA_41D6_AFCE10890EC5.label = Album Photo test_Capture d'écran(2) - Copie
+panorama_8FF909E1_8282_BF69_41DB_FB2DD2616DB2.label = IMG_20250816_104938_00_069
+video_9493AC75_8281_B485_41CE_F9587B7A9F23.label = Sortie_Belvedere_Mulhouse_2
+panorama_8CD8D3F2_8281_5368_41D3_34053D9298DF.label = aggrandissement_1
+panorama_8F076C9D_8281_55D9_41B9_6CD1C9860AF3.label = escalier
+album_9D9812D4_8D32_6EEC_41DE_A83C7C241CC1_2.label = image
+album_9D9812D4_8D32_6EEC_41DE_A83C7C241CC1_1.label = image (1)
+album_9D9812D4_8D32_6EEC_41DE_A83C7C241CC1_0.label = image (2)
+panorama_8FF92ECB_8282_D5B9_41DC_5CD426D9D6CA.label = piscine
+panorama_8FF95611_8282_F4A9_41BA_DAC8410BA16D.label = terasse_aggrd
+media_8181521B_8D35_A99E_41CE_1BBE84D511CB.label = test3d
+album_94D97C7E_8286_B4AA_41D6_AFCE10890EC5_2.label = test_Capture d'écran
+album_94BA6695_8287_B47E_41CE_24E4B369109D_0.label = test_Capture d'écran(1)
+album_94D97C7E_8286_B4AA_41D6_AFCE10890EC5_1.label = test_Capture d'écran(2)
+album_94BA6695_8287_B47E_41CE_24E4B369109D_1.label = test_Capture d'écran(2) - Copie
+album_94D97C7E_8286_B4AA_41D6_AFCE10890EC5_0.label = test_Capture d'écran(2) - Copie
+
+### Video
+videores_B524C8F1_A1B1_8F3C_41C8_4C08D3369029.url = media/media_8181521B_8D35_A99E_41CE_1BBE84D511CB_fr.mp4
+videores_B524C8F1_A1B1_8F3C_41C8_4C08D3369029.posterURL = media/media_8181521B_8D35_A99E_41CE_1BBE84D511CB_poster_fr.jpg
+videolevel_B522B965_A1B1_8124_41DE_6F01303EA226.url = media/video_9493AC75_8281_B485_41CE_F9587B7A9F23_fr.mp4
+videolevel_B522B965_A1B1_8124_41DE_6F01303EA226.posterURL = media/video_9493AC75_8281_B485_41CE_F9587B7A9F23_poster_fr.jpg
+
+### Video 360
+
+## Popup
+
+### Corps
+htmlText_82D38C77_8D32_59A8_41AA_879AE5CC7EDE.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00ffff;font-size:16px;">Le pano live ne correspond pas à la visite, c'est juste pour faire des tests, mais je pense gro potentiel ça si marche comme voulu , par exemple avec un sunset sur la plage ou devant la piscine</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_94AC3620_8283_D459_41D9_09AA97A3BFBA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009966;font-size:20px;">___________________</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Nichée au bord du canal de Savières, entre le Rhône et le lac du Bourget, Chanaz mérite bien son surnom de “la petite Venise savoyarde”. Ce charmant village fleuri invite à flâner le long de l’eau, découvrir ses artisans, ses moulins et ses terrasses animées. Entre balade en bateau, dégustation de produits locaux et ruelles pittoresques, Chanaz est une escale authentique et gourmande qui séduit au fil des saisons.</SPAN></DIV></BODY></HTML></div>
+htmlText_9B070E6E_8809_FD67_41CB_DE24C798F22A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Avec son matelas généreusement moelleux et son sommier ultra-confortable, notre lit King Size vous enveloppe dans un cocon de douceur, favorisant un repos profond et réparateur.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Ses dimensions généreuses vous permettent de vous étendre en toute liberté, seul ou à deux, pour des nuits sans compromis sur l’espace ni le confort</SPAN></DIV></BODY></HTML></div>
+
+### Titre
+window_82D3FC77_8D32_59A8_41C1_DDCEC0381868.title = C'est un panorama en live
+window_9B04CE6E_8809_FD67_41DB_922EB57612B9.title = Lit King Size
+window_94AE5620_8283_D459_41D7_91211AD58F15.title = Visiter Chanaz
+
+## Visite
+
+### Description
+
+### Titre
+tour.name = Sans titre 1
